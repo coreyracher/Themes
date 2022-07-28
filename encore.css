@@ -1,0 +1,35 @@
+/*======Corey login page start============ */
+.modal.login .modal-dialog .modal-content{
+    background: rgb(0 0 0 / 0.51);
+    padding:15px;
+}
+.modal.login .modal-dialog .modal-title{color: white;
+}
+.modal.login {
+ background: #25c0de; /* fallback for old browsers */
+  background: radial-gradient(#25c0de, #554f91); 
+ }
+.modal.login .logo-placeholder{
+  height: 200px;
+  background-image: url("/app/assets/code/encore_white_alpha.png");
+}
+/*======Corey login page end============*/
+
+/*======Corey login enternal start============*/
+.nav-container{ background: radial-gradient(#25c0de, #554f91);}
+
+.modules li { 
+  border-bottom-style: solid;
+  border-color: rgb(255 255 255 / 0.1);;
+}
+.nav-maximized body:not(.home) .header-container .logo-wrapper{
+ height:65px
+}
+.page-container{background: #4d7aae !important;}
+.nav-container .nav .submenu .submenu-links li a {
+    background-color: rgba(255, 9255, 255, 0.35); /* change sub menue bg*/
+}
+.nav {
+    box-shadow: inset 0px 0 0px 0px #ccc; /* hide nav outline*/
+}
+ /*======Corey login enternal END============*/
