@@ -1,0 +1,10 @@
+.nav {
+    box-shadow: inset 0px 0 0px 0px #ccc; /* hide nav outline*/
+}
+.modules li { 
+  border-bottom-style: solid;
+  border-color: rgb(0 0 0 / 0.05);;
+}
+.nav-container .nav .submenu .submenu-links li a {
+     padding-left: 50px; /* change sub menue bg*/
+}
