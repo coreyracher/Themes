@@ -15,7 +15,7 @@
 }
 /*======Corey login page end============*/
 
-/*======Corey login enternal start============*/
+/*======Corey internal start============*/
 .nav-container{ background: radial-gradient(#25c0de, #554f91);}
 
 .modules li { 
@@ -32,4 +32,4 @@
 .nav {
     box-shadow: inset 0px 0 0px 0px #ccc; /* hide nav outline*/
 }
- /*======Corey login enternal END============*/
+ /*======Corey internal END============*/
